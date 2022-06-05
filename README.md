@@ -1,16 +1,42 @@
-# pr1_sky_scrapper_app
+<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-A new Flutter project.
 
-## Getting Started
+- 🔭 &ensp;I’m currently working as **Flutter Developer**
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
-This project is a starting point for a Flutter application.
+----------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="center">Crypto Convertor (Android / iOS)</a></h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**This App Used for Instance Login And use.**
+
+Android Screen 1         |    Android Screen 2
+:-------------------------:| :-------------------------:
+![s1](https://user-images.githubusercontent.com/77672442/172058104-70b80c90-77eb-466c-8b26-83ce9f181490.jpg) | 
+![s2](https://user-images.githubusercontent.com/77672442/172058093-878664e0-e8c6-4852-983f-a6a73f105497.jpg)
+
+
+iOS Screen 1         |    iOS Screen 2
+:-------------------------:| :-------------------------:
+![s3](https://user-images.githubusercontent.com/77672442/172058109-d944a1ed-6909-40f9-8918-1c89a2cd6692.jpg) |
+![s4](https://user-images.githubusercontent.com/77672442/172058110-873be22d-4e59-4471-a917-d2bca8c36bce.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
+
